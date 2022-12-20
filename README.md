@@ -3,7 +3,7 @@ PHP Framework for competitive programming
 
 ## Installation
 ```shell
-composer create-project sycu/task-solver-skeleton my-project
+composer create-project sycu/task-solver my-project
 ```
 
 ## Configuration
