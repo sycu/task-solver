@@ -1,7 +1,9 @@
 # Task Solver
 PHP Framework for competitive programming
 
-## Installation
+This is an app skeleton for task solver. If you want to use it as a library, check [sycu/task-solver-core](https://github.com/sycu/task-solver-core) repository.
+
+## Setup
 ```shell
 composer create-project sycu/task-solver my-project
 ```
