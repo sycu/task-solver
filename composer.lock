@@ -4,20 +4,20 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "41394d78e12e1114c94eb19023230009",
+    "content-hash": "855084a128e0fca0ee3cc7c44362f428",
     "packages": [
         {
             "name": "sycu/task-solver-core",
-            "version": "v0.1.7",
+            "version": "v0.1.8",
             "source": {
                 "type": "git",
                 "url": "https://github.com/sycu/task-solver-core.git",
-                "reference": "6dabcd7a6cfc2b7f8c14a343759ac50c83cab99f"
+                "reference": "6b119d5a3c38c03446528c4078f961eb9661841f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sycu/task-solver-core/zipball/6dabcd7a6cfc2b7f8c14a343759ac50c83cab99f",
-                "reference": "6dabcd7a6cfc2b7f8c14a343759ac50c83cab99f",
+                "url": "https://api.github.com/repos/sycu/task-solver-core/zipball/6b119d5a3c38c03446528c4078f961eb9661841f",
+                "reference": "6b119d5a3c38c03446528c4078f961eb9661841f",
                 "shasum": ""
             },
             "require": {
@@ -42,9 +42,9 @@
             "description": "PHP Framework for competitive programming",
             "support": {
                 "issues": "https://github.com/sycu/task-solver-core/issues",
-                "source": "https://github.com/sycu/task-solver-core/tree/v0.1.7"
+                "source": "https://github.com/sycu/task-solver-core/tree/v0.1.8"
             },
-            "time": "2022-12-23T01:36:13+00:00"
+            "time": "2022-12-23T01:41:16+00:00"
         }
     ],
     "packages-dev": [],
